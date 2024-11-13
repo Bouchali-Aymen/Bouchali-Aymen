@@ -73,8 +73,7 @@ I'm Aymne Bouchali, a 20-year-old Computer Systems and Networks student and a Fu
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouchali-Aymen&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Bouchali-Aymen&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bouchali-Aymen)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bouchali-Aymen&&theme=algolia" alt="Bouchali-Aymen" /></p>
+
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Bouchali-Aymen&theme=react)
 
@@ -98,9 +97,8 @@ I'm Aymne Bouchali, a 20-year-old Computer Systems and Networks student and a Fu
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
+Credit: [Aymen Bouchali](https://github.com/Bouchali-Aymen) 
 
-Last Edited on: 03/09/2024
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
@@ -125,7 +123,6 @@ Last Edited on: 03/09/2024
 <br>
 </details>
 
-Aymen 🍅🐾🌱SEED, [11/13/2024 2:49 PM]
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
