@@ -21,9 +21,9 @@ I'm Aymne Bouchali, a 20-year-old Computer Systems and Networks student and a Fu
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-bouchali-890b85263/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aymen_b.h/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aymenbouchali14@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AymenBouchali-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-bouchali-890b85263/) 
+[![Mail Badge](https://img.shields.io/badge/-@AymenBouchali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aymen_b.h/)
+[![Mail Badge](https://img.shields.io/badge/-AymenBouchali-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aymenbouchali14@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/Bouchali-Aymen?style=social)
@@ -50,11 +50,24 @@ I'm Aymne Bouchali, a 20-year-old Computer Systems and Networks student and a Fu
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) 
+[![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) 
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#) 
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)](#) 
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=black)](#) 
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=white)](#) 
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) 
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=white)](#) 
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](#)
 
-Aymen 🍅🐾🌱SEED, [11/13/2024 2:49 PM]
-Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
+              
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
