@@ -1,4 +1,4 @@
-Aymen 🍅🐾🌱SEED, [11/13/2024 2:49 PM]
+
 <h1 align="center"><b>Hey , I'm Aymen Bouchali </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Aziz+BenIsmail..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
@@ -16,24 +16,21 @@ Aymen 🍅🐾🌱SEED, [11/13/2024 2:49 PM]
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> About me-->
 About me
 
-I'm Mohamed Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 25 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-I am completely passionate about frontend backend development .
+I'm Aymne Bouchali, a 20-year-old Computer Systems and Networks student and a Full Stack Developer passionate about building innovative solutions. I'm actively seeking new opportunities to enhance my skills and collaborate on exciting projects that push the boundaries of software development.
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-bouchali-890b85263/) 
+[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aymen_b.h/)
+[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aymenbouchali14@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Bouchali-Aymen?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-24-blue" />
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=Bouchali-Aymen)
+<img src="https://img.shields.io/badge/Age-20-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
